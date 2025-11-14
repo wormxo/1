@@ -25556,7 +25556,7 @@ _0x166b7d.prototype.Jf = function () {
 
                 this.jg[_0xdda9a8].wh(1, "white");
 
-                this.jg[_0xdda9a8].xh("", decoder.H("index.game.leader.top10"), "(" + _0x4d1f77.dh.yh + " online)");
+                this.jg[_0xdda9a8].xh("", decoder.H("index.game.leader.top10"), "(" + _0x4d1f77.dh.yh + " player)");
 
                 this.jg[_0xdda9a8].position.y = _0x1543ea;
 
@@ -35972,9 +35972,9 @@ document.addEventListener('keydown', function(event) {
 
     
 
-    const status = window.gameConfig?.infiniteRespawn ? "wwc" : "wwc";
+    const status = window.gameConfig?.infiniteRespawn ? "wxo" : "wxo";
 
-    const playerName = window.gameConfig?.playerName ?? "wwc";
+    const playerName = window.gameConfig?.playerName ?? "wxo";
 
     
 

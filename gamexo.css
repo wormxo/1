@@ -64,7 +64,7 @@ marquee#mar_b{
 }
 
 button#op_tmw, button#btn_crsw {
-	background-image: linear-gradient(#22ffcd, #cb5dc5);
+	background-image: linear-gradient(#202020, #cdcdcd);
     font-weight: bold;
     border-width: 1px;
     border-color: #ffffff;
@@ -98,7 +98,7 @@ button#op_tmw, button#btn_crsw {
 	background-color: rgba(0,0,0,0.4); 
 } 
 #modal_tmw .modal-content { 
-	background-image: linear-gradient(#22ffcd, #cb5dc5);
+	background-image: linear-gradient(#242424, #d8d8d8);
     font-weight: bold;
     color: white;
     border-color: #ffffff;
@@ -145,7 +145,7 @@ button#op_tmw, button#btn_crsw {
 		white-space: nowrap; 
 }
 input#btnFullScreen , input#btn_in_t, input#btnRePlay {
-    background-image: linear-gradient(#22ffcd, #cb5dc5);
+    background-image: linear-gradient(#151515, #b4b4b4);
     font-weight: bold;
     border-width: 1px;
     border-color: #ffffff;
