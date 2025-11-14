@@ -36236,9 +36236,9 @@ window.testInfiniteRespawn = function() {
 
     console.log("🔍 اختبار إعدادات Infinite Respawn:");
 
-    console.log("  wwc الحالة:", window.gameConfig?.infiniteRespawn ? "wwc" : "wwc");
+    console.log("  wwc الحالة:", window.gameConfig?.infiniteRespawn ? "wxo" : "wxo");
 
-    console.log("  اسم اللاعب:", window.gameConfig?.playerName ?? "wwc");
+    console.log("  اسم اللاعب:", window.gameConfig?.playerName ?? "wxo");
 
     
 
