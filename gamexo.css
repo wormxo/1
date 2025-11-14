@@ -64,7 +64,7 @@ marquee#mar_b{
 }
 
 button#op_tmw, button#btn_crsw {
-	background-image: linear-gradient(#202020, #cdcdcd);
+	background-image: linear-gradient(#202020, #5e5e5e);
     font-weight: bold;
     border-width: 1px;
     border-color: #ffffff;
@@ -98,7 +98,7 @@ button#op_tmw, button#btn_crsw {
 	background-color: rgba(0,0,0,0.4); 
 } 
 #modal_tmw .modal-content { 
-	background-image: linear-gradient(#242424, #d8d8d8);
+	background-image: linear-gradient(#242424, #767676);
     font-weight: bold;
     color: white;
     border-color: #ffffff;
@@ -145,7 +145,7 @@ button#op_tmw, button#btn_crsw {
 		white-space: nowrap; 
 }
 input#btnFullScreen , input#btn_in_t, input#btnRePlay {
-    background-image: linear-gradient(#151515, #b4b4b4);
+    background-image: linear-gradient(#151515, #828282);
     font-weight: bold;
     border-width: 1px;
     border-color: #ffffff;
@@ -165,7 +165,7 @@ div#update_new_12 {
     border-color: #ffffff;
 }
 button#btn_copy, button#btn_clear_file {
-    background-image: linear-gradient(#bd7862, #87009f);
+    background-image: linear-gradient(#111111, #656565);
     font-weight: bold;
     border-width: 1px;
     color: white;
@@ -174,7 +174,7 @@ button#btn_copy, button#btn_clear_file {
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text {
     margin: 0;
     height: 310px;
-    background-image: linear-gradient(#292929, #dddddd);
+    background-image: linear-gradient(#292929, #898989);
     font-weight: bold;
     border-color: #ffffff;
     color: #fff;
