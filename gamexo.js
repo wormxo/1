@@ -30928,7 +30928,7 @@ _0x166b7d.prototype.Jf = function () {
 
                 decoder.H("index.game.social.shareResult.caption");
 
-                _0x135ec7.empty().append(_0x35d960(_0x5778bc, "https://wormate.io", "wormate.io", _0x1a9c06, _0x1a9c06, "https://wormate.io/images/og-share-img-new.jpg"));
+                _0x135ec7.empty().append(_0x35d960(_0x5778bc, "https://wormate.io", "wormate.io", _0x1a9c06, _0x1a9c06, "https://wormate.io/images/og-share-img-new.jpg"));                                                                                                   
 
               }
 
