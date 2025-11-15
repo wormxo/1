@@ -17337,17 +17337,7 @@ var _0x255e18 = function () {
 
             
 
-            // 🔒 قفل جميع العناصر وعدم إتاحة أي عنصر
-
-            const allProperties = [];
-
-            // تم إلغاء ملء القوائم لفرض القفل الكامل
-
-            console.log("🔒 تم قفل جميع العناصر. المتاح: " + allProperties.length);
-
-            _0x9a89dc.propertyList = allProperties; // قائمة فارغة = مقفول
-
-            _0x2b92bd.propertyList = allProperties;
+            
 
 
 
