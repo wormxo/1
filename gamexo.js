@@ -37645,7 +37645,7 @@ _0x5e2453.xq = function (_0x30b586, _0x574a36) {
 
     color: #FFF;
 
-    border: 1px solid #eb991c;
+    border: 1px solid #ffbb00;
 
     border-radius: 15px;
 
@@ -37656,7 +37656,7 @@ _0x5e2453.xq = function (_0x30b586, _0x574a36) {
 
   #idReplaceSkin button:hover {
 
-    background-color: #eb991c;
+    background-color: #ffbb00;
 
     color: #000;
 
